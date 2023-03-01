@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\bin\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.exe
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\bin\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.deps.json
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\bin\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.runtimeconfig.json
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\bin\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.dll
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\bin\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.pdb
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\obj\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\obj\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\obj\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\obj\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.AssemblyInfo.cs
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\obj\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\obj\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.dll
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\obj\Debug\net6.0\refint\LABORATORIO1-Karla Gissell Benítez Quintanilla.dll
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\obj\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.pdb
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\obj\Debug\net6.0\LABORATORIO1-Karla Gissell Benítez Quintanilla.genruntimeconfig.cache
+C:\Users\HP\Desktop\LABORATORIO1-Karla Gissell Benítez Quintanilla\LABORATORIO1-Karla Gissell Benítez Quintanilla\obj\Debug\net6.0\ref\LABORATORIO1-Karla Gissell Benítez Quintanilla.dll
